@@ -11,10 +11,10 @@
 - 📱 Desain responsif, dapat diakses dari desktop maupun perangkat mobile
 
 ## 🛠️ Teknologi yang Digunakan
-- PHP Native / Laravel (sesuaikan dengan project kamu)
+- PHP Native
 - MySQL
 - HTML, CSS, JavaScript
-- Bootstrap / Tailwind CSS (jika digunakan)
+- Bootstrap
 
 ## 🚀 Tujuan Proyek
 Proyek ini dikembangkan sebagai media pembelajaran dan pengembangan sistem e-commerce sederhana yang berfokus pada industri florist, serta untuk mendukung transformasi digital UMKM di bidang penjualan bunga.
